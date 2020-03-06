@@ -2,7 +2,7 @@
 
 namespace basicCalculator
 {
-    public class Class1
+    public class Calculator
     {
     }
 }
