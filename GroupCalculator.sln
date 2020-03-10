@@ -1,13 +1,18 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{D4515612-87DF-4CFB-879A-12A1A31BE7F6}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{D4515612-87DF-4CFB-879A-12A1A31BE7F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperations", "MathOperations\MathOperations.csproj", "{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication", "Multiplication\Multiplication.csproj", "{38996FB7-B80A-4268-8DE4-39B6D555BF46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication", "Multiplication\Multiplication.csproj", "{38996FB7-B80A-4268-8DE4-39B6D555BF46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{29D1DF92-2618-48B2-83EC-F3518501870A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{29D1DF92-2618-48B2-83EC-F3518501870A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Addition.csproj", "{1E117142-0E5F-408F-8ADC-6EDC574B4285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division", "Division\Division.csproj", "{57821722-A8DE-4528-AC42-EA5FB054B8CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,5 +36,19 @@ Global
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E117142-0E5F-408F-8ADC-6EDC574B4285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E117142-0E5F-408F-8ADC-6EDC574B4285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E117142-0E5F-408F-8ADC-6EDC574B4285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E117142-0E5F-408F-8ADC-6EDC574B4285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57821722-A8DE-4528-AC42-EA5FB054B8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57821722-A8DE-4528-AC42-EA5FB054B8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57821722-A8DE-4528-AC42-EA5FB054B8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57821722-A8DE-4528-AC42-EA5FB054B8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3976BE-09A5-4408-BA3D-FB4B13219D4A}
 	EndGlobalSection
 EndGlobal

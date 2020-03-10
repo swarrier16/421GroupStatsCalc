@@ -2,10 +2,13 @@
 using MathOperations;
 using Multiplication;
 using SquareRoot;
+using Addition;
+using Division;
+
 
 namespace basicCalculator
 {
-    public class basicCalculator: IMultiply, IRoot
+    public class basicCalculator: IMultiply, IRoot, IAdd, IDivide
     {
 
         private static dynamic _result;
@@ -19,6 +22,9 @@ namespace basicCalculator
         Multiplying Multiplication = new Multiplying();
         SquareRooting SquareRoot = new SquareRooting();
 
+        Adding Addition = new Adding();
+        Dividing Division = new Dividing();
+
         public dynamic Product(dynamic a, dynamic b)
         {
             Result = Multiplication.Product(a, b); ;
@@ -31,6 +37,16 @@ namespace basicCalculator
             return Result;
         }
 
+        public dynamic Sum(dynamic a, dynamic b)
+        {
+            Result = Addition.Sum(a, b);
+            return Result;
+        }
+
+        public dynamic Quotient(dynamic a, dynamic b)
+        {
+            Result = Division.Quotient(a, b);
+            return Result;
+        }
     }
 }
-
