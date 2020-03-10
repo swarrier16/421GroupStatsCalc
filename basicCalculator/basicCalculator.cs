@@ -1,9 +1,11 @@
 ﻿using System;
 using MathOperations;
+using Multiplication;
+using SquareRoot;
 
 namespace basicCalculator
 {
-    public class basicCalculator
+    public class basicCalculator: IMultiply, IRoot
     {
 
         private static dynamic _result;
@@ -14,18 +16,21 @@ namespace basicCalculator
             set => _result = value;
         }
 
-        //Multiplying Multiplication = new Multiplying();
-
-        public static void Main()
-        {
-        }
+        Multiplying Multiplication = new Multiplying();
+        SquareRooting SquareRoot = new SquareRooting();
 
         public dynamic Product(dynamic a, dynamic b)
         {
             Result = Multiplication.Product(a, b); ;
             return Result;
         }
-     
+
+        public dynamic Root(dynamic a)
+        {
+            Result = Roots.Root(a);
+            return Result;
+        }
+
     }
 }
 

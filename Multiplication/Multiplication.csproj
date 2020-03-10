@@ -6,7 +6,5 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
-    <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
-    <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
   </ItemGroup>
 </Project>
