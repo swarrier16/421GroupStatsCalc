@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication", "Multiplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{29D1DF92-2618-48B2-83EC-F3518501870A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculatorTests", "basicCalculatorTests\basicCalculatorTests.csproj", "{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTests", "InterfaceTests\InterfaceTests.csproj", "{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +35,13 @@ Global
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D1DF92-2618-48B2-83EC-F3518501870A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -5,7 +5,7 @@ using SquareRoot;
 
 namespace basicCalculator
 {
-    public class basicCalculator: IMultiply, IRoot
+    public class basicCalculators: IMultiply, IRoot
     {
 
         private static dynamic _result;
