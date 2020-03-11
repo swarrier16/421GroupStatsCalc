@@ -2,7 +2,7 @@
 using MathOperations;
 using Microsoft.CSharp;
 
-namespace Addition
+namespace Division
 {
     public interface IDivide
     {

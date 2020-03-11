@@ -1,9 +1,9 @@
 ﻿using System;
+using Addition;
+using Division;
 using MathOperations;
 using Multiplication;
 using SquareRoot;
-using Addition;
-using Division;
 
 
 namespace basicCalculator
