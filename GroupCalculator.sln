@@ -1,17 +1,22 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{D4515612-87DF-4CFB-879A-12A1A31BE7F6}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{D4515612-87DF-4CFB-879A-12A1A31BE7F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperations", "MathOperations\MathOperations.csproj", "{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication", "Multiplication\Multiplication.csproj", "{38996FB7-B80A-4268-8DE4-39B6D555BF46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication", "Multiplication\Multiplication.csproj", "{38996FB7-B80A-4268-8DE4-39B6D555BF46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{29D1DF92-2618-48B2-83EC-F3518501870A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{29D1DF92-2618-48B2-83EC-F3518501870A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculatorTests", "basicCalculatorTests\basicCalculatorTests.csproj", "{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicCalculatorTests", "basicCalculatorTests\basicCalculatorTests.csproj", "{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTests", "InterfaceTests\InterfaceTests.csproj", "{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceTests", "InterfaceTests\InterfaceTests.csproj", "{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csproj", "{7ECAAAE7-09A4-4FB8-BA73-593737152DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtraction", "Subtraction\Subtraction.csproj", "{EDE82E96-40BB-42A8-AAA3-9A45C8D30749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,5 +48,19 @@ Global
 		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38ECEBB-1DCC-4B3E-A778-47519748E7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECAAAE7-09A4-4FB8-BA73-593737152DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECAAAE7-09A4-4FB8-BA73-593737152DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECAAAE7-09A4-4FB8-BA73-593737152DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECAAAE7-09A4-4FB8-BA73-593737152DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE82E96-40BB-42A8-AAA3-9A45C8D30749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE82E96-40BB-42A8-AAA3-9A45C8D30749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE82E96-40BB-42A8-AAA3-9A45C8D30749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE82E96-40BB-42A8-AAA3-9A45C8D30749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FCEC540-36D1-460E-8D02-15C72990B7D3}
 	EndGlobalSection
 EndGlobal
