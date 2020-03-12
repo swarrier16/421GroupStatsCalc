@@ -2,10 +2,12 @@
 using MathOperations;
 using Multiplication;
 using SquareRoot;
+using Square;
+using Subtraction;
 
 namespace basicCalculator
 {
-    public class basicCalculators: IMultiply, IRoot
+    public class basicCalculators: IMultiply, IRoot, ISquare, ISubtract
     {
 
         private static dynamic _result;
@@ -18,6 +20,9 @@ namespace basicCalculator
 
         Multiplying Multiplication = new Multiplying();
         SquareRooting SquareRoot = new SquareRooting();
+        Squaring square = new Squaring();
+        Subtracting sub = new Subtracting();
+
 
         public dynamic Product(dynamic a, dynamic b)
         {
@@ -28,6 +33,17 @@ namespace basicCalculator
         public dynamic Root(dynamic a)
         {
             Result = Roots.Root(a);
+            return Result;
+        }
+        
+        public dynamic Squares(dynamic a)
+        {
+            Result = MathOperations.Square.SquareMethod(a);
+            return Result;
+        }
+        public dynamic Subtraction(dynamic a, dynamic b)
+        {
+            Result = MathOperations.Subtraction.Difference(a, b);
             return Result;
         }
 

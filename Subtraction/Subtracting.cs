@@ -8,7 +8,7 @@ namespace Subtraction
     {
         dynamic Difference(dynamic a, dynamic b);
     }
-    public class Subtraction : ISubtract
+    public class Subtracting : ISubtract
     {
         private static dynamic _result;
 

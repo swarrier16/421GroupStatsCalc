@@ -6,12 +6,11 @@ namespace Square
 {
     public interface ISquare
     {
-        dynamic Square(dynamic a);
+        dynamic SquareMethod(dynamic a);
     }
-    public class Square : ISquare
+    public class Squaring : ISquare
     {
         private static dynamic _result;
-
         public static dynamic Result
         {
             get => _result;
@@ -20,9 +19,9 @@ namespace Square
         public static void Main()
         {
         }
-        public dynamic Squares(dynamic a)
+        public dynamic SquareExpo(dynamic a)
         {
-            Result = MathOperations.Squares.Square(a); ;
+            Result = MathOperations.Square.SquareMethod(a); ;
             return Result;
         }
 
