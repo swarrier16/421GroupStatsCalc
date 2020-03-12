@@ -44,6 +44,28 @@ namespace Calculator.Tests
             Assert.AreEqual(1.224744871391589, basicCalculators.Result);
         }
 
-       
+        [TestMethod()]
+        public void SubtractionIntTest()
+        {
+            Calculator.Subtraction(bInt, aInt);
+            Assert.AreEqual(1, basicCalculators.Result);
+        }
+        [TestMethod()]
+        public void SubtractionDoubleTest()
+        {
+            Calculator.Subtraction(bDouble, aDouble);
+            Assert.AreEqual(1, basicCalculators.Result);
+        }
+        [TestMethod()]
+        public void SquareIntTest()
+        {
+            Calculator.Squares(bInt);
+            Assert.AreEqual(4, basicCalculators.Result);
+        }
+        public void SquareDoubleTest()
+        {
+            Calculator.Squares(bDouble);
+            Assert.AreEqual(6.50, basicCalculators.Result);
+        }
     }
 }
