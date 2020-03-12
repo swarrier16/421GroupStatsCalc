@@ -20,7 +20,7 @@ namespace Square
         public static void Main()
         {
         }
-        public dynamic Difference(dynamic a)
+        public dynamic Squares(dynamic a)
         {
             Result = MathOperations.Squares.Square(a); ;
             return Result;
