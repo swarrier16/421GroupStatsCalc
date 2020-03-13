@@ -1,0 +1,11 @@
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/bin/Debug/netstandard2.0/Multiplication.deps.json
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/bin/Debug/netstandard2.0/Multiplication.dll
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/bin/Debug/netstandard2.0/Multiplication.pdb
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/bin/Debug/netstandard2.0/MathOperations.dll
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/bin/Debug/netstandard2.0/MathOperations.pdb
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.csprojAssemblyReference.cache
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.AssemblyInfoInputs.cache
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.AssemblyInfo.cs
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.csproj.CopyComplete
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.dll
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/Multiplication/obj/Debug/netstandard2.0/Multiplication.pdb

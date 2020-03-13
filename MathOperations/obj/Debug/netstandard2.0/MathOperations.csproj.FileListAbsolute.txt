@@ -1,0 +1,8 @@
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/bin/Debug/netstandard2.0/MathOperations.deps.json
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/bin/Debug/netstandard2.0/MathOperations.dll
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/bin/Debug/netstandard2.0/MathOperations.pdb
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/Debug/netstandard2.0/MathOperations.AssemblyInfoInputs.cache
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/Debug/netstandard2.0/MathOperations.AssemblyInfo.cs
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/Debug/netstandard2.0/MathOperations.dll
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/Debug/netstandard2.0/MathOperations.pdb
+/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/Debug/netstandard2.0/MathOperations.csprojAssemblyReference.cache
