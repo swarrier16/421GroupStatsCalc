@@ -71,16 +71,24 @@ namespace StatisticsCalculator
                 sum = Calculator.Sum(sum, x[i]);
             }
 
-            double final = Calculator.Quotient(sum, (values.Length - 1));
+            double final = Calculator.Quotient(sum, (values.Length - 2));
             return final;
+        }
+
+        public double StandardDev(dynamic DataPoints)
+        {
+            double[] values = DataPoints;
+            double variance = Variance(values);
+            double result = Calculator.Root(variance);
+            return result;
+        }
+
+        public double zScore(dynamic point, dynamic mean, dynamic sd)
+        {
+            double dividend = Calculator.Difference(point, mean);
+            double result = Calculator.Quotient(dividend, sd);
+            return result;
         }
     }
 
 }
-
-
-
-
-
-
-

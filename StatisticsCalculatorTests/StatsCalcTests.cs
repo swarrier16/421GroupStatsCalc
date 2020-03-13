@@ -33,5 +33,23 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.Variance(DataPoints);
             Assert.AreEqual(33.2, result);
         }
+        [TestMethod]
+        public void StandardDevTest()
+        {
+            double[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0, 7.0 };
+
+            var result = statsCalc.StandardDev(DataPoints);
+            Assert.AreEqual(3.61939, result);
+        }
+        [TestMethod]
+        public void ZScoreTest()
+        {
+            double a = 86.0;
+            double b = 85.0;
+            double c = 2.0;
+
+            var result = statsCalc.zScore(a, b, c);
+            Assert.AreEqual(0.5, result);
+        }
     }
 }
