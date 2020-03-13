@@ -11,7 +11,7 @@
           "MSTest.TestAdapter": "2.0.0",
           "MSTest.TestFramework": "2.0.0",
           "Microsoft.NET.Test.Sdk": "16.2.0",
-          "StatisticsCalculator": "1.0.0",
+          "StatsCalc": "1.0.0",
           "coverlet.collector": "1.0.1"
         },
         "runtime": {
@@ -1350,12 +1350,12 @@
           "SquareRoot.dll": {}
         }
       },
-      "StatisticsCalculator/1.0.0": {
+      "StatsCalc/1.0.0": {
         "dependencies": {
           "basicCalculator": "1.0.0"
         },
         "runtime": {
-          "StatisticsCalculator.dll": {}
+          "StatsCalc.dll": {}
         }
       },
       "Subtraction/1.0.0": {
@@ -2135,7 +2135,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "StatisticsCalculator/1.0.0": {
+    "StatsCalc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

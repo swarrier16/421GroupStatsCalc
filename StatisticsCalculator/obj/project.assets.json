@@ -208,11 +208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatsCalc/StatisticsCalculator.csproj",
-      "projectName": "StatisticsCalculator",
-      "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatsCalc/StatisticsCalculator.csproj",
+      "projectUniqueName": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/StatsCalc.csproj",
+      "projectName": "StatsCalc",
+      "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/StatsCalc.csproj",
       "packagesPath": "/Users/swarrier/.nuget/packages/",
-      "outputPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatsCalc/obj/",
+      "outputPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/swarrier/.config/NuGet/NuGet.Config"
