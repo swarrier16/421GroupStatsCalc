@@ -9,3 +9,14 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/Square/obj/Debug/netstandard2.0/Square.csproj.CopyComplete
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/Square/obj/Debug/netstandard2.0/Square.dll
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/Square/obj/Debug/netstandard2.0/Square.pdb
+/Users/swarrier/Projects/GroupCalculator/Square/bin/Debug/netstandard2.0/Square.deps.json
+/Users/swarrier/Projects/GroupCalculator/Square/bin/Debug/netstandard2.0/Square.dll
+/Users/swarrier/Projects/GroupCalculator/Square/bin/Debug/netstandard2.0/Square.pdb
+/Users/swarrier/Projects/GroupCalculator/Square/bin/Debug/netstandard2.0/MathOperations.dll
+/Users/swarrier/Projects/GroupCalculator/Square/bin/Debug/netstandard2.0/MathOperations.pdb
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.csprojAssemblyReference.cache
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.AssemblyInfoInputs.cache
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.AssemblyInfo.cs
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.csproj.CopyComplete
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.dll
+/Users/swarrier/Projects/GroupCalculator/Square/obj/Debug/netstandard2.0/Square.pdb
