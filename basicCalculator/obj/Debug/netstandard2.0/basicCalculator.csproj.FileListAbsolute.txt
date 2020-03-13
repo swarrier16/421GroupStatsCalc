@@ -17,3 +17,8 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculator/obj/Debug/netstandard2.0/basicCalculator.csproj.CopyComplete
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculator/obj/Debug/netstandard2.0/basicCalculator.dll
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculator/obj/Debug/netstandard2.0/basicCalculator.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculator\obj\Debug\netstandard2.0\basicCalculator.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculator\obj\Debug\netstandard2.0\basicCalculator.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculator\obj\Debug\netstandard2.0\basicCalculator.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculator\obj\Debug\netstandard2.0\basicCalculator.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculator\obj\Debug\netstandard2.0\basicCalculator.pdb

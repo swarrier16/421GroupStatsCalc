@@ -1,0 +1,3 @@
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netstandard2.0\Division.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netstandard2.0\Division.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netstandard2.0\Division.AssemblyInfo.cs

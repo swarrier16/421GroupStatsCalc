@@ -104,3 +104,8 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Square.pdb
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/SquareRoot.pdb
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Subtraction.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.pdb

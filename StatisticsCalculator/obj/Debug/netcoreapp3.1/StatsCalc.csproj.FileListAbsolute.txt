@@ -19,3 +19,8 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/obj/Debug/netcoreapp3.1/StatsCalc.csproj.CopyComplete
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/obj/Debug/netcoreapp3.1/StatsCalc.dll
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/obj/Debug/netcoreapp3.1/StatsCalc.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatsCalc.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatsCalc.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatsCalc.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatsCalc.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatsCalc.pdb

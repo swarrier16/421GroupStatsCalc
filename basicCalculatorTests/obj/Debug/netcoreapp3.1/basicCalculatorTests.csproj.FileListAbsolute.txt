@@ -102,3 +102,8 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculatorTests/obj/Debug/netcoreapp3.1/basicCalculatorTests.csproj.CopyComplete
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculatorTests/obj/Debug/netcoreapp3.1/basicCalculatorTests.dll
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/basicCalculatorTests/obj/Debug/netcoreapp3.1/basicCalculatorTests.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculatorTests\obj\Debug\netcoreapp3.1\basicCalculatorTests.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculatorTests\obj\Debug\netcoreapp3.1\basicCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculatorTests\obj\Debug\netcoreapp3.1\basicCalculatorTests.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculatorTests\obj\Debug\netcoreapp3.1\basicCalculatorTests.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\basicCalculatorTests\obj\Debug\netcoreapp3.1\basicCalculatorTests.pdb

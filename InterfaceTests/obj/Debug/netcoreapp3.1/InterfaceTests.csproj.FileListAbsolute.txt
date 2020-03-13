@@ -100,3 +100,8 @@
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/InterfaceTests/obj/Debug/netcoreapp3.1/InterfaceTests.csproj.CopyComplete
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/InterfaceTests/obj/Debug/netcoreapp3.1/InterfaceTests.dll
 /Users/swarrier/Downloads/421GroupStatsCalc-rati/InterfaceTests/obj/Debug/netcoreapp3.1/InterfaceTests.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.pdb
