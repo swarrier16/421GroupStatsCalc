@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2D5B6336-AFDB-4DAC-A5CF-65C97B2A5EB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SquareRoot/Class1.cs">
+    <Files>
+      <File FileName="InterfaceTests/SquareRootingTest.cs" Line="24" Column="2" />
+      <File FileName="SquareRoot/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupCalculator" expanded="True">
+            <Node name="basicCalculator" expanded="True" />
+            <Node name="basicCalculatorTests" expanded="True" />
+            <Node name="InterfaceTests" expanded="True" />
+            <Node name="MathOperations" expanded="True" />
+            <Node name="Multiplication" expanded="True" />
+            <Node name="SquareRoot" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.basicCalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Multiplication FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.basicCalculator FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MathOperations FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SquareRoot FirstBuild="True" />
+</Properties>
