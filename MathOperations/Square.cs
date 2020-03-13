@@ -8,9 +8,9 @@ namespace MathOperations
     {
         static public int SquareMethod(int squareBase)
         {
-            var product = squareBase * squareBase;
+            var squareAns = squareBase * squareBase;
 
-            return product;
+            return squareAns;
         }
         static public double SquareMethod(double squareBase)
         {

@@ -20,8 +20,8 @@ namespace basicCalculator
 
         Multiplying Multiplication = new Multiplying();
         SquareRooting SquareRoot = new SquareRooting();
-        Squaring square = new Squaring();
-        Subtracting sub = new Subtracting();
+        Squaring Square = new Squaring();
+        Subtracting Sub = new Subtracting();
 
 
         public dynamic Product(dynamic a, dynamic b)

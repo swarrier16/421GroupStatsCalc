@@ -15,5 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\basicCalculator\basicCalculator.csproj" />
+    <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
   </ItemGroup>
 </Project>

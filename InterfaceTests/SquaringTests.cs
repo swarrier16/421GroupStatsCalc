@@ -28,6 +28,6 @@ namespace Square.Tests
             Assert.AreEqual(6.50, Squaring.Result);
         }
 
-      
+
     }
 }

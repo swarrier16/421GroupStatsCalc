@@ -23,7 +23,7 @@ namespace Calculator.Tests
 
         }
 
-        
+       
         [TestMethod()]
         public void MultiplyIntegerTest()
         {
