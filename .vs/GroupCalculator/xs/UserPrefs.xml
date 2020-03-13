@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupCalculator" expanded="True">
+            <Node name="SquareRoot" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>SquareRoot/SquareRoot.csproj</String>
+    <String>Multiplication/Multiplication.csproj</String>
+    <String>MathOperations/MathOperations.csproj</String>
+    <String>InterfaceTests/InterfaceTests.csproj</String>
+    <String>basicCalculatorTests/basicCalculatorTests.csproj</String>
+    <String>basicCalculator/basicCalculator.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

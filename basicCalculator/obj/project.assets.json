@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MathOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathOperations.dll": {}
+        }
+      },
+      "SquareRoot/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SquareRoot.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SquareRoot.dll": {}
+        }
+      },
+      "Subtraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Subtraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Subtraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathOperations/1.0.0": {
+      "type": "project",
+      "path": "../MathOperations/MathOperations.csproj",
+      "msbuildProject": "../MathOperations/MathOperations.csproj"
+    },
+    "SquareRoot/1.0.0": {
+      "type": "project",
+      "path": "../SquareRoot/SquareRoot.csproj",
+      "msbuildProject": "../SquareRoot/SquareRoot.csproj"
+    },
+    "Subtraction/1.0.0": {
+      "type": "project",
+      "path": "../Subtraction/Subtraction.csproj",
+      "msbuildProject": "../Subtraction/Subtraction.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SquareRoot >= 1.0.0",
+      "Subtraction >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/swarrier/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj",
+      "projectName": "basicCalculator",
+      "projectPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj",
+      "packagesPath": "/Users/swarrier/.nuget/packages/",
+      "outputPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculator/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/swarrier/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/swarrier/Projects/GroupCalculator/SquareRoot/SquareRoot.csproj": {
+              "projectPath": "/Users/swarrier/Projects/GroupCalculator/SquareRoot/SquareRoot.csproj"
+            },
+            "/Users/swarrier/Projects/GroupCalculator/Subtraction/Subtraction.csproj": {
+              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Subtraction/Subtraction.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
