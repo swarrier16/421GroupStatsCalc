@@ -1,11 +1,8 @@
-﻿using System;
-using MathOperations;
+﻿using MathOperations;
 using Multiplication;
 using SquareRoot;
 using Square;
 using Subtraction;
-using Addition;
-using Division;
 
 namespace basicCalculator
 {

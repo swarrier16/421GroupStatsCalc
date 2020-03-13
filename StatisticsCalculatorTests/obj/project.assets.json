@@ -2012,25 +2012,25 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Addition/1.0.0": {
+      "Addition2/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MathOperations": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Addition.dll": {}
+          "bin/placeholder/Addition2.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Addition.dll": {}
+          "bin/placeholder/Addition2.dll": {}
         }
       },
       "basicCalculator/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Addition": "1.0.0",
-          "Division": "1.0.0",
+          "Addition2": "1.0.0",
+          "Division2": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -2044,17 +2044,17 @@
           "bin/placeholder/basicCalculator.dll": {}
         }
       },
-      "Division/1.0.0": {
+      "Division2/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MathOperations": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Division.dll": {}
+          "bin/placeholder/Division2.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Division.dll": {}
+          "bin/placeholder/Division2.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -6981,20 +6981,20 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Addition/1.0.0": {
+    "Addition2/1.0.0": {
       "type": "project",
-      "path": "../Addition/Addition.csproj",
-      "msbuildProject": "../Addition/Addition.csproj"
+      "path": "../Addition2/Addition2.csproj",
+      "msbuildProject": "../Addition2/Addition2.csproj"
     },
     "basicCalculator/1.0.0": {
       "type": "project",
       "path": "../basicCalculator/basicCalculator.csproj",
       "msbuildProject": "../basicCalculator/basicCalculator.csproj"
     },
-    "Division/1.0.0": {
+    "Division2/1.0.0": {
       "type": "project",
-      "path": "../Division/Division.csproj",
-      "msbuildProject": "../Division/Division.csproj"
+      "path": "../Division2/Division2.csproj",
+      "msbuildProject": "../Division2/Division2.csproj"
     },
     "MathOperations/1.0.0": {
       "type": "project",

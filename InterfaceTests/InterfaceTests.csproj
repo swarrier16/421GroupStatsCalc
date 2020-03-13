@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Addition\Addition.csproj" />
-    <ProjectReference Include="..\Division\Division.csproj" />
+    <ProjectReference Include="..\Addition2\Addition2.csproj" />
+    <ProjectReference Include="..\Division2\Division2.csproj" />
     <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
     <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
     <ProjectReference Include="..\Subtraction\Subtraction.csproj" />

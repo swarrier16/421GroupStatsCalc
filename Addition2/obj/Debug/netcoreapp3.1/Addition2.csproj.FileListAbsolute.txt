@@ -1,0 +1,11 @@
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\bin\Debug\netcoreapp3.1\Addition2.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\bin\Debug\netcoreapp3.1\Addition2.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\bin\Debug\netcoreapp3.1\Addition2.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Addition2\obj\Debug\netcoreapp3.1\Addition2.csprojAssemblyReference.cache

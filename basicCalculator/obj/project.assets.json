@@ -35,30 +35,24 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Addition/1.0.0": {
+      "Addition2/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "MathOperations": "1.0.0"
-        },
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "bin/placeholder/Addition.dll": {}
+          "bin/placeholder/Addition2.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Addition.dll": {}
+          "bin/placeholder/Addition2.dll": {}
         }
       },
-      "Division/1.0.0": {
+      "Division2/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "MathOperations": "1.0.0"
-        },
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "bin/placeholder/Division.dll": {}
+          "bin/placeholder/Division2.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Division.dll": {}
+          "bin/placeholder/Division2.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -343,15 +337,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Addition/1.0.0": {
+    "Addition2/1.0.0": {
       "type": "project",
-      "path": "../Addition/Addition.csproj",
-      "msbuildProject": "../Addition/Addition.csproj"
+      "path": "../Addition2/Addition2.csproj",
+      "msbuildProject": "../Addition2/Addition2.csproj"
     },
-    "Division/1.0.0": {
+    "Division2/1.0.0": {
       "type": "project",
-      "path": "../Division/Division.csproj",
-      "msbuildProject": "../Division/Division.csproj"
+      "path": "../Division2/Division2.csproj",
+      "msbuildProject": "../Division2/Division2.csproj"
     },
     "MathOperations/1.0.0": {
       "type": "project",
@@ -381,8 +375,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Addition >= 1.0.0",
-      "Division >= 1.0.0",
+      "Addition2 >= 1.0.0",
+      "Division2 >= 1.0.0",
       "MathOperations >= 1.0.0",
       "Multiplication >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
@@ -417,11 +411,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition\\Addition.csproj": {
-              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition\\Addition.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj"
             },
-            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division\\Division.csproj": {
-              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division\\Division.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj"
             },
             "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
               "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
@@ -470,5 +464,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Division2 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Division2 supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Division2",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Addition2 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Addition2 supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Addition2",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
