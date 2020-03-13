@@ -14,6 +14,7 @@ namespace Calculator.Tests
         private readonly int bInt = 2;
         private readonly double aDouble = 1.5;
         private readonly double bDouble = 2.5;
+        private readonly double cDouble = 3.75;
         private readonly decimal aDecimal = 1.5M;
         private readonly decimal bDecimal = 2.5M;
 
@@ -23,7 +24,32 @@ namespace Calculator.Tests
 
         }
 
-        
+        [TestMethod()]
+        public void AddIntegerTest()
+        {
+            Calculator.Sum(bInt, aInt);
+            Assert.AreEqual(3, basicCalculators.Result);
+        }
+        [TestMethod()]
+        public void AddDoubleTest()
+        {
+            Calculator.Sum(aDouble, bDouble);
+            Assert.AreEqual(4.0, basicCalculators.Result);
+        }
+
+        [TestMethod()]
+        public void DivideIntegerTest()
+        {
+            Calculator.Quotient(bInt, aInt);
+            Assert.AreEqual(1, basicCalculators.Result);
+        }
+        [TestMethod()]
+        public void DivideDoubleTest()
+        {
+            Calculator.Quotient(cDouble, aDouble);
+            Assert.AreEqual(2.5, basicCalculators.Result);
+        }
+
         [TestMethod()]
         public void MultiplyIntegerTest()
         {
@@ -43,7 +69,5 @@ namespace Calculator.Tests
             Calculator.Root(aDouble);
             Assert.AreEqual(1.224744871391589, basicCalculators.Result);
         }
-
-       
     }
 }

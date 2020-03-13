@@ -8,7 +8,7 @@ using SquareRoot;
 
 namespace basicCalculator
 {
-    public class basicCalculator: IMultiply, IRoot, IAdd, IDivide
+    public class basicCalculators: IMultiply, IRoot, IAdd, IDivide
     {
 
         private static dynamic _result;
