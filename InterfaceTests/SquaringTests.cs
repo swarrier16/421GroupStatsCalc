@@ -25,7 +25,7 @@ namespace Square.Tests
         public void SquareDoubleTest()
         {
             Square.SquareExpo(bDouble);
-            Assert.AreEqual(6.50, Squaring.Result);
+            Assert.AreEqual(6.25, Squaring.Result);
         }
 
 

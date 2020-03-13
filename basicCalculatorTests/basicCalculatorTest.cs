@@ -3,6 +3,10 @@ using basicCalculator;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Multiplication;
+using Subtraction;
+using Square;
+using SquareRoot;
 
 namespace Calculator.Tests
 {
@@ -47,24 +51,24 @@ namespace Calculator.Tests
         [TestMethod()]
         public void SubtractionIntTest()
         {
-            Calculator.Subtraction(bInt, aInt);
+            Calculator.Difference(bInt, aInt);
             Assert.AreEqual(1, basicCalculators.Result);
         }
         [TestMethod()]
         public void SubtractionDoubleTest()
         {
-            Calculator.Subtraction(bDouble, aDouble);
+            Calculator.Difference(bDouble, aDouble);
             Assert.AreEqual(1, basicCalculators.Result);
         }
         [TestMethod()]
         public void SquareIntTest()
         {
-            Calculator.Squares(bInt);
+            Calculator.SquareExpo(bInt);
             Assert.AreEqual(4, basicCalculators.Result);
         }
         public void SquareDoubleTest()
         {
-            Calculator.Squares(bDouble);
+            Calculator.SquareExpo(bDouble);
             Assert.AreEqual(6.50, basicCalculators.Result);
         }
     }
