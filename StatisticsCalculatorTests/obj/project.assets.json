@@ -7004,11 +7004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/StatisticsCalculatorTests.csproj",
+      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/StatisticsCalculatorTests.csproj",
       "projectName": "StatisticsCalculatorTests",
-      "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/StatisticsCalculatorTests.csproj",
+      "projectPath": "/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/StatisticsCalculatorTests.csproj",
       "packagesPath": "/Users/swarrier/.nuget/packages/",
-      "outputPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculatorTests/obj/",
+      "outputPath": "/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/swarrier/.config/NuGet/NuGet.Config"
@@ -7022,8 +7022,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/StatsCalc.csproj": {
-              "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/StatisticsCalculator/StatsCalc.csproj"
+            "/Users/swarrier/Projects/GroupCalculator/StatisticsCalculator/StatsCalc.csproj": {
+              "projectPath": "/Users/swarrier/Projects/GroupCalculator/StatisticsCalculator/StatsCalc.csproj"
             }
           }
         }

@@ -1,0 +1,8 @@
+/Users/swarrier/Projects/GroupCalculator/RandomGen/bin/Debug/netcoreapp3.1/RandomGen.deps.json
+/Users/swarrier/Projects/GroupCalculator/RandomGen/bin/Debug/netcoreapp3.1/RandomGen.dll
+/Users/swarrier/Projects/GroupCalculator/RandomGen/bin/Debug/netcoreapp3.1/RandomGen.pdb
+/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/Debug/netcoreapp3.1/RandomGen.csprojAssemblyReference.cache
+/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/Debug/netcoreapp3.1/RandomGen.AssemblyInfoInputs.cache
+/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/Debug/netcoreapp3.1/RandomGen.AssemblyInfo.cs
+/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/Debug/netcoreapp3.1/RandomGen.dll
+/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/Debug/netcoreapp3.1/RandomGen.pdb
