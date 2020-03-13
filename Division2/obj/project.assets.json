@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj",
-      "projectName": "Division2",
-      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj",
+      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj",
+      "projectName": "Division",
+      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj",
       "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\obj\\",
       "projectStyle": "PackageReference",

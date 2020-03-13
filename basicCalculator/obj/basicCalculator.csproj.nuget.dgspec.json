@@ -4,12 +4,12 @@
     "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculator\\basicCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj": {
+    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj",
-        "projectName": "Addition2",
-        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj",
+        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition.csproj",
+        "projectName": "Addition",
+        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition.csproj",
         "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\obj\\",
         "projectStyle": "PackageReference",
@@ -83,11 +83,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj": {
-                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj"
+              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition.csproj": {
+                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition.csproj"
               },
-              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj": {
-                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj"
+              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj": {
+                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj"
               },
               "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
                 "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
@@ -134,12 +134,12 @@
         }
       }
     },
-    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj": {
+    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj",
-        "projectName": "Division2",
-        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj",
+        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj",
+        "projectName": "Division",
+        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division.csproj",
         "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\obj\\",
         "projectStyle": "PackageReference",

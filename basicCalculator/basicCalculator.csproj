@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Addition2\Addition2.csproj" />
-    <ProjectReference Include="..\Division2\Division2.csproj" />
+    <ProjectReference Include="..\Addition2\Addition.csproj" />
+    <ProjectReference Include="..\Division2\Division.csproj" />
     <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
     <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
     <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />

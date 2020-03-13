@@ -20,11 +20,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatisticsCalculatorTests",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatsCalc", "StatisticsCalculator\StatsCalc.csproj", "{AD3DFEA2-D270-4287-B87A-F4E32A565773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition2", "Addition2\Addition2.csproj", "{AFF45308-976B-4DBC-A9AA-06AB4630CA09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Addition", "Addition2\Addition.csproj", "{AFF45308-976B-4DBC-A9AA-06AB4630CA09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division2", "Division2\Division2.csproj", "{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division2\Division.csproj", "{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
