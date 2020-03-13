@@ -6,7 +6,8 @@ namespace StatisticsCalculator
 {
     public class DescriptiveStats : basicCalculators
     {
-        
+        private basicCalculators Calculator = new basicCalculators();
+
         public double Mode(dynamic DataPoints)
         {
             double[] values = DataPoints;
@@ -38,7 +39,41 @@ namespace StatisticsCalculator
             return highestCount;
         }
 
+        public double Mean(dynamic DataPoints)
+        {
+            double[] values = DataPoints;
+            double total = 0;
 
+            for (int i = 0; i < values.Length; i++)
+            {
+                total = Calculator.Sum(total, values[i]);
+            }
+
+            double m = Calculator.Quotient(total, (values.Length-1));
+
+            return m;
+        }
+
+        public double Variance(dynamic DataPoints)
+        {
+            double[] values = DataPoints;
+            double mean = Mean(values);
+            double[] x = new double[values.Length-1];
+
+            for (int i = 0; i < values.Length; i++)
+            {
+                x[i] = Calculator.SquareExpo(Calculator.Difference(values[i], mean));
+            }
+
+            double sum = 0;
+            for (int i = 0; i < x.Length; i++)
+            {
+                sum = Calculator.Sum(sum, x[i]);
+            }
+
+            double final = Calculator.Quotient(sum, (values.Length - 1));
+            return final;
+        }
     }
 
 }
