@@ -8,3 +8,4 @@ C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division2\obj\Debug\netcoreap
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division2\obj\Debug\netcoreapp3.1\Division2.csproj.CopyComplete
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division2\obj\Debug\netcoreapp3.1\Division2.dll
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division2\obj\Debug\netcoreapp3.1\Division2.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division2\obj\Debug\netcoreapp3.1\Division2.csprojAssemblyReference.cache

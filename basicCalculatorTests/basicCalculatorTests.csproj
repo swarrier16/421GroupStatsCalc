@@ -14,7 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Addition2\Addition2.csproj" />
     <ProjectReference Include="..\basicCalculator\basicCalculator.csproj" />
+    <ProjectReference Include="..\Division2\Division2.csproj" />
     <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
     <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
     <ProjectReference Include="..\Square\Square.csproj" />

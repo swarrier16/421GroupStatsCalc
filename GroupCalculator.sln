@@ -2,8 +2,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{D4515612-87DF-4CFB-879A-12A1A31BE7F6}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperations", "MathOperations\MathOperations.csproj", "{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication", "Multiplication\Multiplication.csproj", "{38996FB7-B80A-4268-8DE4-39B6D555BF46}"
@@ -26,16 +24,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition2", "Addition2\Addi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division2", "Division2\Division2.csproj", "{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicCalculator", "basicCalculator\basicCalculator.csproj", "{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D4515612-87DF-4CFB-879A-12A1A31BE7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4515612-87DF-4CFB-879A-12A1A31BE7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4515612-87DF-4CFB-879A-12A1A31BE7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4515612-87DF-4CFB-879A-12A1A31BE7F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A7F365E-D73F-4376-9056-16EFE9C4DAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -80,6 +76,10 @@ Global
 		{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{111F9E14-441C-4ECB-B7E3-00C3EF6B86EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF1207D-27AC-4DB4-AE6A-5A1BD9076CDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

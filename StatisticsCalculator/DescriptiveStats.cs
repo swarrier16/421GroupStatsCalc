@@ -49,7 +49,7 @@ namespace StatisticsCalculator
                 total = Calculator.Sum(total, values[i]);
             }
 
-            double m = Calculator.Quotient(total, (values.Length-1));
+            double m = Calculator.Quotient(total, (values.Length));
 
             return m;
         }
@@ -57,29 +57,25 @@ namespace StatisticsCalculator
         public double Variance(dynamic DataPoints)
         {
             double[] values = DataPoints;
-            double mean = Mean(values);
-            double[] x = new double[values.Length-1];
+            double mean = Mean(DataPoints);
+            double sumOfSquares = 0;
 
-            for (int i = 0; i < values.Length; i++)
+            foreach (double num in values)
             {
-                x[i] = Calculator.SquareExpo(Calculator.Difference(values[i], mean));
+                double diff = Calculator.Difference(num, mean);
+                double sq = Calculator.SquareExpo(diff);
+                sumOfSquares = Calculator.Sum(sumOfSquares, sq);
             }
 
-            double sum = 0;
-            for (int i = 0; i < x.Length; i++)
-            {
-                sum = Calculator.Sum(sum, x[i]);
-            }
-
-            double final = Calculator.Quotient(sum, (values.Length - 2));
-            return final;
+            double div = Calculator.Quotient(sumOfSquares, (values.Length - 1));
+            return div;
         }
 
         public double StandardDev(dynamic DataPoints)
         {
-            double[] values = DataPoints;
-            double variance = Variance(values);
+            double variance = Variance(DataPoints);
             double result = Calculator.Root(variance);
+            result = Math.Round(result, 3);
             return result;
         }
 

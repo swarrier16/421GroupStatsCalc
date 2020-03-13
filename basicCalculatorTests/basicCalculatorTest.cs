@@ -7,6 +7,8 @@ using Subtraction;
 using Square;
 using SquareRoot;
 using Multiplication;
+using Addition2;
+using Division2;
 
 namespace Calculator.Tests
 {
@@ -39,7 +41,7 @@ namespace Calculator.Tests
         public void DivideIntegerTest()
         {
             Calculator.Quotient(bInt, aInt);
-            Assert.AreEqual(1, basicCalculators.Result);
+            Assert.AreEqual(2, basicCalculators.Result);
         }
         [TestMethod()]
         public void DivideDoubleTest()

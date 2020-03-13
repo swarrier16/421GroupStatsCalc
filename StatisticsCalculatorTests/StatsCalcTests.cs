@@ -39,7 +39,7 @@ namespace StatisticsCalculatorTests
             double[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0, 7.0 };
 
             var result = statsCalc.StandardDev(DataPoints);
-            Assert.AreEqual(3.61939, result);
+            Assert.AreEqual(3.619, result);
         }
         [TestMethod]
         public void ZScoreTest()

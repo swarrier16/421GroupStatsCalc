@@ -83,8 +83,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj": {
+                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj"
+              },
               "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculator\\basicCalculator.csproj": {
                 "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculator\\basicCalculator.csproj"
+              },
+              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj": {
+                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division2\\Division2.csproj"
               },
               "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
                 "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
@@ -163,14 +169,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {
               "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj": {
                 "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition2\\Addition2.csproj"
@@ -203,15 +209,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -222,6 +220,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }

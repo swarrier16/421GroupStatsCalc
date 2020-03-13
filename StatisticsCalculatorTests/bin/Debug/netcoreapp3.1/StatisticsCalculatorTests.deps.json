@@ -1306,8 +1306,18 @@
           }
         }
       },
+      "Addition2/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Addition2.dll": {}
+        }
+      },
       "basicCalculator/1.0.0": {
         "dependencies": {
+          "Addition2": "1.0.0",
+          "Division2": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -1316,6 +1326,14 @@
         },
         "runtime": {
           "basicCalculator.dll": {}
+        }
+      },
+      "Division2/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Division2.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -2110,7 +2128,17 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
+    "Addition2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "basicCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Division2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
