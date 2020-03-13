@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/swarrier/Downloads/421GroupStatsCalc-rati/SquareRoot/SquareRoot.csproj": {}
+    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj": {}
   },
   "projects": {
-    "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/MathOperations.csproj": {
+    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/MathOperations.csproj",
+        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj",
         "projectName": "MathOperations",
-        "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/MathOperations.csproj",
-        "packagesPath": "/Users/swarrier/.nuget/packages/",
-        "outputPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/obj/",
+        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj",
+        "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/swarrier/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,33 +55,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/swarrier/Downloads/421GroupStatsCalc-rati/SquareRoot/SquareRoot.csproj": {
+    "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/SquareRoot/SquareRoot.csproj",
+        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj",
         "projectName": "SquareRoot",
-        "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/SquareRoot/SquareRoot.csproj",
-        "packagesPath": "/Users/swarrier/.nuget/packages/",
-        "outputPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/SquareRoot/obj/",
+        "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj",
+        "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/swarrier/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/MathOperations.csproj": {
-                "projectPath": "/Users/swarrier/Downloads/421GroupStatsCalc-rati/MathOperations/MathOperations.csproj"
+              "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
+                "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
               }
             }
           }
@@ -114,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
