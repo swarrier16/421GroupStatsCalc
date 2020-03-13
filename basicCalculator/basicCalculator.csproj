@@ -5,9 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="basicCalculator1.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
+    <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
+    <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
+    <ProjectReference Include="..\Squaring\Square.csproj" />
+    <ProjectReference Include="..\Subtraction\Subtraction.csproj" />
   </ItemGroup>
+
 </Project>
