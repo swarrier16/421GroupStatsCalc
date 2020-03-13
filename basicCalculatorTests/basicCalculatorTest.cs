@@ -3,10 +3,10 @@ using basicCalculator;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Multiplication;
 using Subtraction;
 using Square;
 using SquareRoot;
+using Multiplication;
 
 namespace Calculator.Tests
 {
@@ -21,11 +21,7 @@ namespace Calculator.Tests
         private readonly decimal aDecimal = 1.5M;
         private readonly decimal bDecimal = 2.5M;
 
-        [TestInitialize]
-        public void Setup()
-        {
-
-        }
+       
 
        
         [TestMethod()]

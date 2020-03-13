@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StatsCalc/1.0.0": {
+        "dependencies": {
+          "basicCalculator": "1.0.0"
+        },
+        "runtime": {
+          "StatsCalc.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "basicCalculator/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0",
+          "Multiplication": "1.0.0",
+          "Square": "1.0.0",
+          "SquareRoot": "1.0.0",
+          "Subtraction": "1.0.0"
+        },
+        "runtime": {
+          "basicCalculator.dll": {}
+        }
+      },
+      "MathOperations/1.0.0": {
+        "runtime": {
+          "MathOperations.dll": {}
+        }
+      },
+      "Multiplication/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "Multiplication.dll": {}
+        }
+      },
+      "Square/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "Square.dll": {}
+        }
+      },
+      "SquareRoot/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "SquareRoot.dll": {}
+        }
+      },
+      "Subtraction/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "Subtraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StatsCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "basicCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquareRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Subtraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

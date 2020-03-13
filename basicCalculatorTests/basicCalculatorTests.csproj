@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -17,9 +17,8 @@
     <ProjectReference Include="..\basicCalculator\basicCalculator.csproj" />
     <ProjectReference Include="..\MathOperations\MathOperations.csproj" />
     <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
+    <ProjectReference Include="..\Square\Square.csproj" />
     <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
-    <ProjectReference Include="..\Squaring\Square.csproj" />
     <ProjectReference Include="..\Subtraction\Subtraction.csproj" />
   </ItemGroup>
-
 </Project>
