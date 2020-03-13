@@ -4,10 +4,12 @@ using Multiplication;
 using SquareRoot;
 using Square;
 using Subtraction;
+using Addition;
+using Division;
 
 namespace basicCalculator
 {
-    public class basicCalculators : IMultiply, IRoot, ISquare, ISubtract
+    public class basicCalculators: IMultiply, IRoot, IAdd, IDivide, ISquare, ISubtract
     {
 
         private static dynamic _result;
@@ -23,6 +25,9 @@ namespace basicCalculator
         Subtracting Subtraction = new Subtracting();
         Squaring Square = new Squaring();
 
+
+        Adding Addition = new Adding();
+        Dividing Division = new Dividing();
 
         public dynamic Product(dynamic a, dynamic b)
         {
@@ -46,5 +51,16 @@ namespace basicCalculator
             return Result;
         }
 
+        public dynamic Sum(dynamic a, dynamic b)
+        {
+            Result = Addition.Sum(a, b);
+            return Result;
+        }
+
+        public dynamic Quotient(dynamic a, dynamic b)
+        {
+            Result = Division.Quotient(a, b);
+            return Result;
+        }
     }
 }
