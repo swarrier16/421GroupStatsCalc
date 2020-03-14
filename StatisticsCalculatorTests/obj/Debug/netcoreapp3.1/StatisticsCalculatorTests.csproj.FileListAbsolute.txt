@@ -324,6 +324,11 @@ C:/Users/Nicole/Documents/GitHub/421GroupStatsCalc/StatisticsCalculatorTests/obj
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Division.dll
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Addition.pdb
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Division.pdb
+<<<<<<< HEAD
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/MathNet.Numerics.dll
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/RandomGen.dll
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/RandomGen.pdb
+=======
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -434,3 +439,4 @@ C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debu
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.csproj.CopyComplete
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.dll
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\StatisticsCalculatorTests\obj\Debug\netcoreapp3.1\StatisticsCalculatorTests.pdb
+>>>>>>> 4a070f0c9530da3261326e7189a6597b7947d274

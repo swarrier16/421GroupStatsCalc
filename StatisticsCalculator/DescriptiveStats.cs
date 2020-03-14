@@ -127,7 +127,7 @@ namespace StatisticsCalculator
 
         }
 
-        public double Median(dynamic[] DataPoints)
+        public double Median(dynamic DataPoints)
         {
             var len = DataPoints.Length;
             var loc = len / 2;
@@ -143,6 +143,13 @@ namespace StatisticsCalculator
             }
         }
 
+
+        public double Skewness(dynamic DataPoints)
+        {
+            var numerator = 3 * (Mean(DataPoints) - Median(DataPoints));
+            return (numerator / StandardDev(DataPoints));
+
+        }
 
     }
 

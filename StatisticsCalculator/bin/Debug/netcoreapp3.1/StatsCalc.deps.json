@@ -8,12 +8,24 @@
     ".NETCoreApp,Version=v3.1": {
       "StatsCalc/1.0.0": {
         "dependencies": {
+          "MathNet.Numerics": "4.9.0",
+          "Microsoft.CSharp": "4.7.0",
+          "RandomGen": "1.0.0",
           "basicCalculator": "1.0.0"
         },
         "runtime": {
           "StatsCalc.dll": {}
         }
       },
+      "MathNet.Numerics/4.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "4.9.0.0",
+            "fileVersion": "4.9.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
       "Addition/1.0.0": {
         "dependencies": {
           "MathOperations": "1.0.0"
@@ -57,6 +69,11 @@
           "Multiplication.dll": {}
         }
       },
+      "RandomGen/1.0.0": {
+        "runtime": {
+          "RandomGen.dll": {}
+        }
+      },
       "Square/1.0.0": {
         "dependencies": {
           "MathOperations": "1.0.0"
@@ -89,6 +106,20 @@
       "serviceable": false,
       "sha512": ""
     },
+    "MathNet.Numerics/4.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4cYzhuMDq57oC6lwhMmuigdhP+oywmp1bMtFzvzz4wYr5eWbg0JLDPo/L1juqDkIBj+rc3FrxUEX7jcHRmnF+w==",
+      "path": "mathnet.numerics/4.9.0",
+      "hashPath": "mathnet.numerics.4.9.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
     "Addition/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -110,6 +141,11 @@
       "sha512": ""
     },
     "Multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomGen/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

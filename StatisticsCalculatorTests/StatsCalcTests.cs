@@ -8,6 +8,7 @@ namespace StatisticsCalculatorTests
     {
 
         DescriptiveStats statsCalc = new DescriptiveStats();
+        PopulationStats popCalc = new PopulationStats();
 
         [TestMethod]
         public void ModeTest()
@@ -70,6 +71,30 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.MeanDeviation(DataPoints);
             Assert.AreEqual(23.75, result);
         }
+
+
+        [TestMethod]
+        public void SampleRandomSampleTest()
+        {
+            decimal sample = 10M;
+            decimal population = 100M;
+
+
+            var result = popCalc.SimpleRandomSample(sample, population);
+            Assert.AreEqual(0.10M, result);
+        }
+
+        [TestMethod]
+        public void SystematicSamplingTest()
+        {
+            decimal sample = 10M;
+            decimal population = 100M;
+
+
+            var result = popCalc.SystematicSampling(sample, population);
+            Assert.AreEqual(10M, result);
+        }
+
         [TestMethod]
         public void MedianOddTest()
         {
@@ -85,6 +110,14 @@ namespace StatisticsCalculatorTests
             Assert.AreEqual(4.5, result);
         }
 
+        [TestMethod]
+        public void SkewnessTest()
+        {
+            double[] DataPoints = { 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 };
+
+            var result = statsCalc.Skewness(DataPoints);
+            Assert.AreEqual(0.0, result);
+        }
 
 
     }

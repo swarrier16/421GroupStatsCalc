@@ -6,5 +6,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\basicCalculator\basicCalculator.csproj" />
+    <ProjectReference Include="..\RandomGen\RandomGen.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="4.9.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
   </ItemGroup>
 </Project>
