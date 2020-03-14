@@ -14,5 +14,10 @@ namespace MathOperations
         {
             return dividend / divisor;
         }
+
+        static public decimal Quotient(decimal dividend, decimal divisor)
+        {
+            return dividend / divisor;
+        }
     }
 }

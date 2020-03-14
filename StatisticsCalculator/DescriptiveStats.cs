@@ -127,6 +127,13 @@ namespace StatisticsCalculator
 
         }
 
+        //public double Skewness(dynamic DataPoints)
+        //{
+        //    var numerator = 3 * (Mean(DataPoints) - Median(DataPoints));
+        //    return (numerator / StandardDev(DataPoints));
+
+        //}
+
     }
 
 }

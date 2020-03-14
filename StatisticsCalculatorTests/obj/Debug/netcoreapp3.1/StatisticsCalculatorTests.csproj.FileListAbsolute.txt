@@ -324,3 +324,6 @@ C:/Users/Nicole/Documents/GitHub/421GroupStatsCalc/StatisticsCalculatorTests/obj
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Division.dll
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Addition.pdb
 /Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/Division.pdb
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/MathNet.Numerics.dll
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/RandomGen.dll
+/Users/swarrier/Projects/GroupCalculator/StatisticsCalculatorTests/bin/Debug/netcoreapp3.1/RandomGen.pdb
