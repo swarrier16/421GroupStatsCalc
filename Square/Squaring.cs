@@ -19,7 +19,7 @@ namespace Square
 
         public dynamic SquareExpo(dynamic a)
         {
-            Result = MathOperations.Square.SquareMethod(a); ;
+            Result = MathOperations.Square.SquareMethod(a); 
             return Result;
         }
 

@@ -9,3 +9,14 @@
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netcoreapp3.1/SquareRoot.csproj.CopyComplete
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netcoreapp3.1/SquareRoot.dll
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netcoreapp3.1/SquareRoot.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csprojAssemblyReference.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CopyComplete
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
