@@ -14,3 +14,11 @@ C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\RandomGen\obj\Debug\netcoreap
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.AssemblyInfo.cs
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.dll
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\bin\Debug\netcoreapp3.1\RandomGen.deps.json
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\bin\Debug\netcoreapp3.1\RandomGen.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\bin\Debug\netcoreapp3.1\RandomGen.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.csprojAssemblyReference.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.AssemblyInfoInputs.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.AssemblyInfo.cs
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\RandomGen\obj\Debug\netcoreapp3.1\RandomGen.pdb

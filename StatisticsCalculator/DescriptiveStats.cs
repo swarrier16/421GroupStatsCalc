@@ -127,6 +127,23 @@ namespace StatisticsCalculator
 
         }
 
+        public double Median(dynamic[] DataPoints)
+        {
+            var len = DataPoints.Length;
+            var loc = len / 2;
+
+            if ((len % 2) == 1)
+            {
+                return DataPoints[loc];
+            }
+            else
+            {
+                var nex = loc - 1;
+                return ((DataPoints[loc] + DataPoints[nex]) / 2);
+            }
+        }
+
+
     }
 
 }

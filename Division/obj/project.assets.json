@@ -27,31 +27,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/swarrier/.nuget/packages/": {}
+    "C:\\Users\\rati1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/Division/Division.csproj",
+      "projectUniqueName": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\Division\\Division.csproj",
       "projectName": "Division",
-      "projectPath": "/Users/swarrier/Projects/GroupCalculator/Division/Division.csproj",
-      "packagesPath": "/Users/swarrier/.nuget/packages/",
-      "outputPath": "/Users/swarrier/Projects/GroupCalculator/Division/obj/",
+      "projectPath": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\Division\\Division.csproj",
+      "packagesPath": "C:\\Users\\rati1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\Division\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/swarrier/.config/NuGet/NuGet.Config"
+        "C:\\Users\\rati1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj"
+            "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
+              "projectPath": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
             }
           }
         }
@@ -79,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

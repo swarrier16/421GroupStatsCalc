@@ -70,5 +70,22 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.MeanDeviation(DataPoints);
             Assert.AreEqual(23.75, result);
         }
+        [TestMethod]
+        public void MedianOddTest()
+        {
+            dynamic[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0 };
+            var result = statsCalc.Median(DataPoints);
+            Assert.AreEqual(5.0, result);
+        }
+        [TestMethod]
+        public void MedianEvenTest()
+        {
+            dynamic[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0, 7.0 };
+            var result = statsCalc.Median(DataPoints);
+            Assert.AreEqual(4.5, result);
+        }
+
+
+
     }
 }
