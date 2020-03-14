@@ -30,3 +30,4 @@ C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.csproj.CopyComplete
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.dll
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache

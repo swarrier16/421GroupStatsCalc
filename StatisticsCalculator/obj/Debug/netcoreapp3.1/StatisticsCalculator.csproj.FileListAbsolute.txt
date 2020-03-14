@@ -22,3 +22,4 @@ C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debu
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatisticsCalculator.csproj.CopyComplete
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatisticsCalculator.dll
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatisticsCalculator.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\StatisticsCalculator\obj\Debug\netcoreapp3.1\StatisticsCalculator.csprojAssemblyReference.cache

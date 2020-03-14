@@ -417,3 +417,4 @@ C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\bin\Debug\netc
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\bin\Debug\netcoreapp3.1\Multiplication.pdb
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\bin\Debug\netcoreapp3.1\MathOperations.pdb
 C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\InterfaceTests\obj\Debug\netcoreapp3.1\InterfaceTests.csprojAssemblyReference.cache

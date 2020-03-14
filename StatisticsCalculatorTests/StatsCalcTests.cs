@@ -57,7 +57,7 @@ namespace StatisticsCalculatorTests
             double[] DataPoints = { 1, 2, 5, 6, 7, 9, 12, 15, 18, 19, 27 };
 
             var result = statsCalc.UpperQuartile(DataPoints);
-            Assert.AreEqual(18, result);
+            Assert.AreEqual(19, result);
         }
         public void LowerQuartileTest()
         {
