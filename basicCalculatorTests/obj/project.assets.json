@@ -2012,10 +2012,25 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "Addition/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Addition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Addition.dll": {}
+        }
+      },
       "basicCalculator/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Addition": "1.0.0",
+          "Division": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -2027,6 +2042,19 @@
         },
         "runtime": {
           "bin/placeholder/basicCalculator.dll": {}
+        }
+      },
+      "Division/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Division.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Division.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -6940,10 +6968,20 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "Addition/1.0.0": {
+      "type": "project",
+      "path": "../Addition/Addition.csproj",
+      "msbuildProject": "../Addition/Addition.csproj"
+    },
     "basicCalculator/1.0.0": {
       "type": "project",
       "path": "../basicCalculator/basicCalculator.csproj",
       "msbuildProject": "../basicCalculator/basicCalculator.csproj"
+    },
+    "Division/1.0.0": {
+      "type": "project",
+      "path": "../Division/Division.csproj",
+      "msbuildProject": "../Division/Division.csproj"
     },
     "MathOperations/1.0.0": {
       "type": "project",
@@ -6973,6 +7011,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Addition >= 1.0.0",
+      "Division >= 1.0.0",
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "MathOperations >= 1.0.0",
@@ -6986,46 +7026,54 @@
     ]
   },
   "packageFolders": {
-    "/Users/swarrier/.nuget/packages/": {}
+    "C:\\Users\\Nicole\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/basicCalculatorTests/basicCalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculatorTests\\basicCalculatorTests.csproj",
       "projectName": "basicCalculatorTests",
-      "projectPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculatorTests/basicCalculatorTests.csproj",
-      "packagesPath": "/Users/swarrier/.nuget/packages/",
-      "outputPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculatorTests/obj/",
+      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculatorTests\\basicCalculatorTests.csproj",
+      "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/swarrier/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition\\Addition.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Addition\\Addition.csproj"
             },
-            "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculator\\basicCalculator.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\basicCalculator\\basicCalculator.csproj"
             },
-            "/Users/swarrier/Projects/GroupCalculator/Multiplication/Multiplication.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Multiplication/Multiplication.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division\\Division.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Division\\Division.csproj"
             },
-            "/Users/swarrier/Projects/GroupCalculator/Square/Square.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Square/Square.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
             },
-            "/Users/swarrier/Projects/GroupCalculator/SquareRoot/SquareRoot.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/SquareRoot/SquareRoot.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Multiplication\\Multiplication.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Multiplication\\Multiplication.csproj"
             },
-            "/Users/swarrier/Projects/GroupCalculator/Subtraction/Subtraction.csproj": {
-              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Subtraction/Subtraction.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\SquareRoot\\SquareRoot.csproj"
+            },
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Square\\Square.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Square\\Square.csproj"
+            },
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Subtraction\\Subtraction.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Subtraction\\Subtraction.csproj"
             }
           }
         }
@@ -7071,7 +7119,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

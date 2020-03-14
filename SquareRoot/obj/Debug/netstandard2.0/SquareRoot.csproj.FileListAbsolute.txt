@@ -20,3 +20,14 @@
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netstandard2.0/SquareRoot.csproj.CopyComplete
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netstandard2.0/SquareRoot.dll
 /Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/Debug/netstandard2.0/SquareRoot.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\bin\Debug\netstandard2.0\SquareRoot.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\bin\Debug\netstandard2.0\SquareRoot.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\bin\Debug\netstandard2.0\SquareRoot.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\bin\Debug\netstandard2.0\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\bin\Debug\netstandard2.0\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\SquareRoot\obj\Debug\netstandard2.0\SquareRoot.pdb

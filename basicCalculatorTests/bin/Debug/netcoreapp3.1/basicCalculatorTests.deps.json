@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "basicCalculatorTests/1.0.0": {
         "dependencies": {
+          "Addition": "1.0.0",
+          "Division": "1.0.0",
           "MSTest.TestAdapter": "2.0.0",
           "MSTest.TestFramework": "2.0.0",
           "MathOperations": "1.0.0",
@@ -1311,8 +1313,18 @@
           }
         }
       },
+      "Addition/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Addition.dll": {}
+        }
+      },
       "basicCalculator/1.0.0": {
         "dependencies": {
+          "Addition": "1.0.0",
+          "Division": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -1321,6 +1333,14 @@
         },
         "runtime": {
           "basicCalculator.dll": {}
+        }
+      },
+      "Division/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Division.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -2107,7 +2127,17 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
+    "Addition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "basicCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Division/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
