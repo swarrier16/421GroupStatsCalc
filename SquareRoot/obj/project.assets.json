@@ -287,7 +287,7 @@
       "outputPath": "/Users/swarrier/Projects/GroupCalculator/SquareRoot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/swarrier/.nuget/NuGet/NuGet.Config"
+        "/Users/swarrier/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

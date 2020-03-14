@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Division/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Division.dll": {}
+        }
+      },
+      "MathOperations/1.0.0": {
+        "runtime": {
+          "MathOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Division/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

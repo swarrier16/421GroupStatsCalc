@@ -3,9 +3,9 @@
 
 ## Project Outline
 Calculator Object
-1)	Properties <br>
+### 1)	Properties <br>
    &nbsp;&nbsp; i)	Result <br>
-2)	basicCalculator class <br>
+### 2)	basicCalculator class <br>
   &nbsp;&nbsp; a)	Methods <br>
     &nbsp;&nbsp;&nbsp;&nbsp; i)	Addition (Nicole) <br> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)	Calls addition static method from math operations<br>
@@ -19,7 +19,7 @@ Calculator Object
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)	 Call square static method from Math operations <br>
     &nbsp;&nbsp;&nbsp;&nbsp; vi)	Square Root (Shruti) <br> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Call square root method from Math operations <br>
-3)	Math Operations Static Class <br>
+### 3)	Math Operations Static Class <br>
   &nbsp;&nbsp;a)	Methods <br>
    &nbsp;&nbsp;&nbsp;&nbsp;  i)	Addition (Nicole) <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)	Calls addition class method of Sum <br>
@@ -33,7 +33,7 @@ Calculator Object
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Call square class method of Power <br>
    &nbsp;&nbsp;&nbsp;&nbsp; vi)	Square Root (Shruti) <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)	Call square root class method of Root <br>
-4)	Operations classes <br>
+### 4)	Operations classes <br>
 &nbsp;&nbsp;a)	Addition (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;i)	Methods <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Sum 2 numbers <br>
@@ -53,7 +53,7 @@ Calculator Object
 &nbsp;&nbsp;f)	Square Root (Shruti) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;i)	Methods <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Take the square root of a number <br>
-5)	Statistics Functions <br>
+### 5)	Statistics Functions <br>
 &nbsp;&nbsp;a)	Descriptive Statistics <br>
 &nbsp;&nbsp;&nbsp;&nbsp;i)	Methods <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Mean (Nicole)<br>
@@ -67,7 +67,7 @@ Calculator Object
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Mean method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Add method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Call Divide method <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)	Standard Deviation (Rati) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)	Standard Deviation (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Variance Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Square Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)	Skewness (Nicole) <br>
@@ -97,11 +97,11 @@ Calculator Object
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Quotient method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)	Systematic Sampling (Shruti) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Quotient method <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)	Margin of Error (Shruti) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)	Margin of Error (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Std Dev method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Z-Score method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Call Quotient Method <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)	Confidence Interval (Shruti) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)	Confidence Interval (Rati) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Mean Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Margin of Error Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)	Cochran Formula (Rati) <br>
@@ -111,7 +111,7 @@ Calculator Object
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)	Call Quotient Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)	How to Find a Sample Size Given a Confidence Interval and Width (unknown population standard deviation) (Rati) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)	How to Find a Sample Size Given a Confidence Interval and Width (known population standard deviation) (Rati) <br>
-6)	Random Class (Nicole)<br>
+### 6)	Random Class (Shruti)<br>
 &nbsp;&nbsp;a)	Methods <br>
 &nbsp;&nbsp;&nbsp;&nbsp;i)	Generate a random number without a seed between a range of two numbers <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Integer <br>

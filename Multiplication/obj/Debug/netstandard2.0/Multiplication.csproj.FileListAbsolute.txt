@@ -20,3 +20,14 @@
 /Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netstandard2.0/Multiplication.csproj.CopyComplete
 /Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netstandard2.0/Multiplication.dll
 /Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netstandard2.0/Multiplication.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\bin\Debug\netstandard2.0\Multiplication.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\bin\Debug\netstandard2.0\Multiplication.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\bin\Debug\netstandard2.0\Multiplication.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\bin\Debug\netstandard2.0\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\bin\Debug\netstandard2.0\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Multiplication\obj\Debug\netstandard2.0\Multiplication.pdb

@@ -2012,10 +2012,25 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "Addition/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Addition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Addition.dll": {}
+        }
+      },
       "basicCalculator/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Addition": "1.0.0",
+          "Division": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -2027,6 +2042,19 @@
         },
         "runtime": {
           "bin/placeholder/basicCalculator.dll": {}
+        }
+      },
+      "Division/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Division.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Division.dll": {}
         }
       },
       "MathOperations/1.0.0": {
@@ -6940,10 +6968,20 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "Addition/1.0.0": {
+      "type": "project",
+      "path": "../Addition/Addition.csproj",
+      "msbuildProject": "../Addition/Addition.csproj"
+    },
     "basicCalculator/1.0.0": {
       "type": "project",
       "path": "../basicCalculator/basicCalculator.csproj",
       "msbuildProject": "../basicCalculator/basicCalculator.csproj"
+    },
+    "Division/1.0.0": {
+      "type": "project",
+      "path": "../Division/Division.csproj",
+      "msbuildProject": "../Division/Division.csproj"
     },
     "MathOperations/1.0.0": {
       "type": "project",
@@ -6973,6 +7011,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Addition >= 1.0.0",
+      "Division >= 1.0.0",
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "MathOperations >= 1.0.0",
@@ -6998,7 +7038,7 @@
       "outputPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculatorTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/swarrier/.nuget/NuGet/NuGet.Config"
+        "/Users/swarrier/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -7009,8 +7049,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "/Users/swarrier/Projects/GroupCalculator/Addition/Addition.csproj": {
+              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Addition/Addition.csproj"
+            },
             "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj": {
               "projectPath": "/Users/swarrier/Projects/GroupCalculator/basicCalculator/basicCalculator.csproj"
+            },
+            "/Users/swarrier/Projects/GroupCalculator/Division/Division.csproj": {
+              "projectPath": "/Users/swarrier/Projects/GroupCalculator/Division/Division.csproj"
             },
             "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj": {
               "projectPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj"
