@@ -1,0 +1,16 @@
+/Users/swarrier/Projects/GroupCalculator/MathOperations/bin/Debug/netcoreapp3.1/MathOperations.deps.json
+/Users/swarrier/Projects/GroupCalculator/MathOperations/bin/Debug/netcoreapp3.1/MathOperations.dll
+/Users/swarrier/Projects/GroupCalculator/MathOperations/bin/Debug/netcoreapp3.1/MathOperations.pdb
+/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/Debug/netcoreapp3.1/MathOperations.csprojAssemblyReference.cache
+/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/Debug/netcoreapp3.1/MathOperations.AssemblyInfoInputs.cache
+/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/Debug/netcoreapp3.1/MathOperations.AssemblyInfo.cs
+/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/Debug/netcoreapp3.1/MathOperations.dll
+/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/Debug/netcoreapp3.1/MathOperations.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csprojAssemblyReference.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb

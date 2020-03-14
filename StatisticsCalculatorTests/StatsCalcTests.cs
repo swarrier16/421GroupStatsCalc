@@ -51,5 +51,41 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.zScore(a, b, c);
             Assert.AreEqual(0.5, result);
         }
+
+        [TestMethod]
+        public void PopCorrelationTest()
+        {
+            double[] DataPointsX = { 1, 2, 3, 4, 5 };
+            double[] DataPointsY = { 11, 22, 34, 43, 56 };
+
+            var result = statsCalc.PopCoefficient(DataPointsX, DataPointsY);
+            Assert.AreEqual(0.7991887154553378, result);
+        }
+
+        [TestMethod]
+        public void MeanDeviationTest()
+        {
+            double[] DataPoints = { 12.0, 24.0, 41.0, 51.0, 67.0, 67.0, 85.0, 99.0 };
+
+            var result = statsCalc.MeanDeviation(DataPoints);
+            Assert.AreEqual(23.75, result);
+        }
+        [TestMethod]
+        public void MedianOddTest()
+        {
+            dynamic[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0 };
+            var result = statsCalc.Median(DataPoints);
+            Assert.AreEqual(5.0, result);
+        }
+        [TestMethod]
+        public void MedianEvenTest()
+        {
+            dynamic[] DataPoints = { 9.0, 2.0, 5.0, 4.0, 12.0, 7.0 };
+            var result = statsCalc.Median(DataPoints);
+            Assert.AreEqual(4.5, result);
+        }
+
+
+
     }
 }

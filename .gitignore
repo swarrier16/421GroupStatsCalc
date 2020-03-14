@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/421GroupStatsCalc2/v16
+/.vs/GroupCalculator/v16/Server/sqlite3/db.lock

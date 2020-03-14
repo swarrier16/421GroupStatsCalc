@@ -16,9 +16,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Addition\Addition.csproj" />
     <ProjectReference Include="..\Division\Division.csproj" />
-    <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
-    <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
-    <ProjectReference Include="..\Subtraction\Subtraction.csproj" />
     <ProjectReference Include="..\Square\Square.csproj" />
+    <ProjectReference Include="..\Subtraction\Subtraction.csproj" />
+    <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
+    <ProjectReference Include="..\Multiplication\Multiplication.csproj" />
   </ItemGroup>
 </Project>

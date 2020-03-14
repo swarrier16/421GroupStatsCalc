@@ -70,7 +70,7 @@ Calculator Object
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)	Standard Deviation (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Variance Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Square Method <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)	Skewness (Nicole) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)	Skewness (Shruti) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Multiplication Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Mean Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Call Median Method <br>
@@ -91,6 +91,7 @@ Calculator Object
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(10)	Z-Score (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Call Mean Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Call Std Dev Method <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)	Quartiles (Nicole) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)	Population Statistics <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i)	Methods <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Simple Random Sample (Shruti) <br>
