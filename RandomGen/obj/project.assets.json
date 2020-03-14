@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rati1\\.nuget\\packages\\": {}
+    "/Users/swarrier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\RandomGen\\RandomGen.csproj",
+      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/RandomGen/RandomGen.csproj",
       "projectName": "RandomGen",
-      "projectPath": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\RandomGen\\RandomGen.csproj",
-      "packagesPath": "C:\\Users\\rati1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rati1\\Source\\Repos\\421GroupStatsCalc\\RandomGen\\obj\\",
+      "projectPath": "/Users/swarrier/Projects/GroupCalculator/RandomGen/RandomGen.csproj",
+      "packagesPath": "/Users/swarrier/.nuget/packages/",
+      "outputPath": "/Users/swarrier/Projects/GroupCalculator/RandomGen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rati1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/swarrier/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

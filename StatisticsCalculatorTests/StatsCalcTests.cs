@@ -71,7 +71,7 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.MeanDeviation(DataPoints);
             Assert.AreEqual(23.75, result);
         }
-<<<<<<< HEAD
+
 
         [TestMethod]
         public void SampleRandomSampleTest()
@@ -94,7 +94,7 @@ namespace StatisticsCalculatorTests
             var result = popCalc.SystematicSampling(sample, population);
             Assert.AreEqual(10M, result);
         }
-=======
+
         [TestMethod]
         public void MedianOddTest()
         {
@@ -110,8 +110,15 @@ namespace StatisticsCalculatorTests
             Assert.AreEqual(4.5, result);
         }
 
+        [TestMethod]
+        public void SkewnessTest()
+        {
+            double[] DataPoints = { 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 };
+
+            var result = statsCalc.Skewness(DataPoints);
+            Assert.AreEqual(0.0, result);
+        }
 
 
->>>>>>> 4a070f0c9530da3261326e7189a6597b7947d274
     }
 }
