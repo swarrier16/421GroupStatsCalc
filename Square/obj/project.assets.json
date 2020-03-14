@@ -34,16 +34,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "MathOperations/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/MathOperations.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MathOperations.dll": {}
-        }
       }
     }
   },
@@ -260,50 +250,38 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "MathOperations/1.0.0": {
-      "type": "project",
-      "path": "../MathOperations/MathOperations.csproj",
-      "msbuildProject": "../MathOperations/MathOperations.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "MathOperations >= 1.0.0",
       "Microsoft.CSharp >= 4.7.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicole\\.nuget\\packages\\": {}
+    "/Users/swarrier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Square\\Square.csproj",
+      "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/Square/Square.csproj",
       "projectName": "Square",
-      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Square\\Square.csproj",
-      "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\Square\\obj\\",
+      "projectPath": "/Users/swarrier/Projects/GroupCalculator/Square/Square.csproj",
+      "packagesPath": "/Users/swarrier/.nuget/packages/",
+      "outputPath": "/Users/swarrier/Projects/GroupCalculator/Square/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/swarrier/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {
-            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj": {
-              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\MathOperations\\MathOperations.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -336,7 +314,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

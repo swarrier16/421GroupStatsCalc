@@ -1,25 +1,39 @@
 ﻿<Properties StartupConfiguration="{46AB4732-491B-4CAA-B65D-DBCDEA21A0F5}|Default">
-  <MonoDevelop.Ide.ItemProperties.RandomGen FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RandomTests/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathOperations/Square.cs">
     <Files>
-      <File FileName="RandomGen/Class1.cs" Line="14" Column="10" />
-      <File FileName="RandomTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="StatisticsCalculator/DescriptiveStats.cs" Line="107" Column="49" />
+      <File FileName="StatisticsCalculatorTests/StatsCalcTests.cs" Line="75" Column="1" />
+      <File FileName="basicCalculator/basicCalculators.cs" Line="1" Column="1" />
+      <File FileName="MathOperations/Class1.cs" Line="22" Column="2" />
+      <File FileName="MathOperations/Subtraction.cs" Line="23" Column="1" />
+      <File FileName="MathOperations/Division.cs" Line="18" Column="2" />
+      <File FileName="MathOperations/Multiplication.cs" Line="22" Column="2" />
+      <File FileName="MathOperations/Roots.cs" Line="16" Column="2" />
+      <File FileName="MathOperations/Square.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GroupCalculator" expanded="True">
+            <Node name="basicCalculator" expanded="True" />
             <Node name="InterfaceTests" expanded="True" />
-            <Node name="RandomGen" expanded="True" />
-            <Node name="RandomTests" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
+            <Node name="MathOperations" expanded="True">
+              <Node name="Square.cs" selected="True" />
             </Node>
+            <Node name="RandomGen" expanded="True" />
+            <Node name="RandomTests" expanded="True" />
+            <Node name="StatisticsCalculatorTests" expanded="True" />
+            <Node name="StatsCalc" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GroupCalculator" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.RandomTests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.StatisticsCalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
@@ -27,4 +41,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MathOperations FirstBuild="True" />
 </Properties>

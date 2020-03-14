@@ -85,6 +85,48 @@ namespace StatisticsCalculator
             return result;
         }
 
+        public double PopCoefficient(dynamic DataPointsX, dynamic DataPointsY)
+        {
+            double xbar = Mean(DataPointsX);
+            double ybar = Mean(DataPointsY);
+            double sx = StandardDev(DataPointsX);
+            double sy = StandardDev(DataPointsY);
+            double x, y, numerator, expression, correlation;
+            double covariance = 0;
+
+
+            for (int i = 0; i < DataPointsX.Length; i++)
+            {
+                x = DataPointsX[i] - xbar;
+                y = DataPointsY[i] - ybar;
+                numerator = x * y;
+                covariance = Sum(covariance, numerator);
+            }
+
+            expression = Quotient(covariance,DataPointsX.Length);
+            correlation = (expression / (sx * sy));
+
+            return correlation;
+
+        }
+
+        public double MeanDeviation(dynamic DataPoints)
+        {
+            double xbar = Mean(DataPoints);
+            double num = 0;
+            double final;
+
+            for (int i = 0; i < DataPoints.Length; i++)
+            {
+                num = num + Math.Abs((DataPoints[i] - xbar));
+            }
+
+            final = Quotient(num,DataPoints.Length);
+
+            return final;
+
+        }
+
     }
 
 }
