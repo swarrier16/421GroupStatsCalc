@@ -23,8 +23,6 @@ namespace basicCalculator
         SquareRooting SquareRoot = new SquareRooting();
         Subtracting Subtraction = new Subtracting();
         Squaring Square = new Squaring();
-
-
         Adding Addition = new Adding();
         Dividing Division = new Dividing();
 

@@ -1,29 +1,30 @@
 ﻿<Properties StartupConfiguration="{46AB4732-491B-4CAA-B65D-DBCDEA21A0F5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MathOperations/Square.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceTests/MultiplyingTests.cs">
     <Files>
-      <File FileName="StatisticsCalculator/DescriptiveStats.cs" Line="107" Column="49" />
-      <File FileName="StatisticsCalculatorTests/StatsCalcTests.cs" Line="75" Column="1" />
-      <File FileName="basicCalculator/basicCalculators.cs" Line="1" Column="1" />
-      <File FileName="MathOperations/Class1.cs" Line="22" Column="2" />
-      <File FileName="MathOperations/Subtraction.cs" Line="23" Column="1" />
-      <File FileName="MathOperations/Division.cs" Line="18" Column="2" />
-      <File FileName="MathOperations/Multiplication.cs" Line="22" Column="2" />
-      <File FileName="MathOperations/Roots.cs" Line="16" Column="2" />
-      <File FileName="MathOperations/Square.cs" Line="1" Column="1" />
+      <File FileName="Square/Squaring.cs" Line="1" Column="1" />
+      <File FileName="basicCalculator/basicCalculators.cs" />
+      <File FileName="basicCalculatorTests/basicCalculatorTest.cs" Line="19" Column="39" />
+      <File FileName="InterfaceTests/SquaringTests.cs" Line="10" Column="31" />
+      <File FileName="InterfaceTests/MultiplyingTests.cs" Line="12" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GroupCalculator" expanded="True">
+            <Node name="Addition" expanded="True" />
             <Node name="basicCalculator" expanded="True" />
-            <Node name="InterfaceTests" expanded="True" />
-            <Node name="MathOperations" expanded="True">
-              <Node name="Square.cs" selected="True" />
-            </Node>
+            <Node name="basicCalculatorTests" expanded="True" />
+            <Node name="Division" expanded="True" />
+            <Node name="InterfaceTests" expanded="True" selected="True" />
+            <Node name="MathOperations" expanded="True" />
+            <Node name="Multiplication" expanded="True" />
             <Node name="RandomGen" expanded="True" />
             <Node name="RandomTests" expanded="True" />
+            <Node name="Square" expanded="True" />
+            <Node name="SquareRoot" expanded="True" />
             <Node name="StatisticsCalculatorTests" expanded="True" />
             <Node name="StatsCalc" expanded="True" />
+            <Node name="Subtraction" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -41,5 +42,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MathOperations FirstBuild="True" />
 </Properties>

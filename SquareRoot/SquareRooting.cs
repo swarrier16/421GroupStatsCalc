@@ -18,9 +18,7 @@ namespace SquareRoot
             get => _result;
             set => _result = value;
         }
-        public static void Main()
-        {
-        }
+       
         public dynamic Root(dynamic a)
         {
             Result = MathOperations.Roots.Root(a);

@@ -1,4 +1,5 @@
 ﻿using System;
+using MathOperations;
 
 namespace Division
 {
@@ -15,9 +16,7 @@ namespace Division
             get => _result;
             set => _result = value;
         }
-        public static void Main()
-        {
-        }
+     
         public dynamic Quotient(dynamic a, dynamic b)
         {
             Result = MathOperations.Division.Quotient(a, b);

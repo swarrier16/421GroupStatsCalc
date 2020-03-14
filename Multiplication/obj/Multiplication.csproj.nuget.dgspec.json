@@ -4,6 +4,56 @@
     "/Users/swarrier/Projects/GroupCalculator/Multiplication/Multiplication.csproj": {}
   },
   "projects": {
+    "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj",
+        "projectName": "MathOperations",
+        "projectPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj",
+        "packagesPath": "/Users/swarrier/.nuget/packages/",
+        "outputPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/swarrier/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/swarrier/Projects/GroupCalculator/Multiplication/Multiplication.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -17,14 +67,18 @@
           "/Users/swarrier/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "projectReferences": {}
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj": {
+                "projectPath": "/Users/swarrier/Projects/GroupCalculator/MathOperations/MathOperations.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -34,19 +88,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "Microsoft.CSharp": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            },
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -57,6 +99,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }

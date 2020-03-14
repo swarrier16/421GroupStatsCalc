@@ -1,0 +1,11 @@
+/Users/swarrier/Projects/GroupCalculator/Subtraction/bin/Debug/netcoreapp3.1/Subtraction.deps.json
+/Users/swarrier/Projects/GroupCalculator/Subtraction/bin/Debug/netcoreapp3.1/Subtraction.dll
+/Users/swarrier/Projects/GroupCalculator/Subtraction/bin/Debug/netcoreapp3.1/Subtraction.pdb
+/Users/swarrier/Projects/GroupCalculator/Subtraction/bin/Debug/netcoreapp3.1/MathOperations.dll
+/Users/swarrier/Projects/GroupCalculator/Subtraction/bin/Debug/netcoreapp3.1/MathOperations.pdb
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.csprojAssemblyReference.cache
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.AssemblyInfoInputs.cache
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.AssemblyInfo.cs
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.csproj.CopyComplete
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.dll
+/Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.pdb
