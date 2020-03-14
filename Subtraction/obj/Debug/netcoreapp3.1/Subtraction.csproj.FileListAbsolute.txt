@@ -9,3 +9,14 @@
 /Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.csproj.CopyComplete
 /Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.dll
 /Users/swarrier/Projects/GroupCalculator/Subtraction/obj/Debug/netcoreapp3.1/Subtraction.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.deps.json
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csprojAssemblyReference.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfoInputs.cache
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfo.cs
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csproj.CopyComplete
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.pdb
