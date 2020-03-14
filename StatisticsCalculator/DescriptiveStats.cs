@@ -85,6 +85,35 @@ namespace StatisticsCalculator
             return result;
         }
 
+        public double UpperQuartile(dynamic DataPoints)
+        {
+            double[] upper = new double[DataPoints.Length / 2];
+            for (int x = 0; x < DataPoints.Length / 2; x++)
+            {
+                for (int i = (DataPoints.Length / 2); i < DataPoints.Length - 1; i++)
+                {
+                    upper[x] = DataPoints[i];
+                }
+            }
+
+            double median = Median(upper);
+            return median;
+        }
+        public double LowerQuartile(dynamic DataPoints)
+        {
+            double[] lower = new double[DataPoints.Length / 2];
+            for (int x = 0; x < DataPoints.Length / 2; x++)
+            {
+                for (int i = 0; i < DataPoints.Length / 2; i++)
+                {
+                    lower[x] = DataPoints[i];
+                }
+            }
+
+            double median = Median(lower);
+            return median;
+        }
+
         public double PopCoefficient(dynamic DataPointsX, dynamic DataPointsY)
         {
             double xbar = Mean(DataPointsX);
@@ -103,7 +132,7 @@ namespace StatisticsCalculator
                 covariance = Sum(covariance, numerator);
             }
 
-            expression = Quotient(covariance,DataPointsX.Length);
+            expression = Quotient(covariance, DataPointsX.Length);
             correlation = (expression / (sx * sy));
 
             return correlation;
@@ -121,13 +150,13 @@ namespace StatisticsCalculator
                 num = num + Math.Abs((DataPoints[i] - xbar));
             }
 
-            final = Quotient(num,DataPoints.Length);
+            final = Quotient(num, DataPoints.Length);
 
             return final;
 
         }
 
-        public double Median(dynamic[] DataPoints)
+        public double Median(dynamic DataPoints)
         {
             var len = DataPoints.Length;
             var loc = len / 2;

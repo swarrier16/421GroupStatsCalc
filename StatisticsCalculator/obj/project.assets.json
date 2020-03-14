@@ -164,9 +164,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatsCalc.csproj",
-      "projectName": "StatsCalc",
-      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatsCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatisticsCalculator.csproj",
+      "projectName": "StatisticsCalculator",
+      "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatisticsCalculator.csproj",
       "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\obj\\",
       "projectStyle": "PackageReference",

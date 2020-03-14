@@ -20,3 +20,14 @@ C:\Users\rati1\Source\Repos\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Squ
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.csproj.CopyComplete
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.dll
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\bin\Debug\netcoreapp3.1\Square.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\bin\Debug\netcoreapp3.1\Square.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\bin\Debug\netcoreapp3.1\Square.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Square\obj\Debug\netcoreapp3.1\Square.pdb

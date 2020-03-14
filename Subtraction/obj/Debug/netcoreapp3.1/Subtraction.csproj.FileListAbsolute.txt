@@ -20,3 +20,14 @@ C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csproj.CopyComplete
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.dll
 C:\Users\rati1\Source\Repos\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.pdb

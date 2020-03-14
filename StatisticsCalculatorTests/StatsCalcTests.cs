@@ -51,6 +51,21 @@ namespace StatisticsCalculatorTests
             var result = statsCalc.zScore(a, b, c);
             Assert.AreEqual(0.5, result);
         }
+        [TestMethod]
+        public void UpperQuartileTest()
+        {
+            double[] DataPoints = { 1, 2, 5, 6, 7, 9, 12, 15, 18, 19, 27 };
+
+            var result = statsCalc.UpperQuartile(DataPoints);
+            Assert.AreEqual(18, result);
+        }
+        public void LowerQuartileTest()
+        {
+            double[] DataPoints = { 1, 2, 5, 6, 7, 9, 12, 15, 18, 19, 27 };
+
+            var result = statsCalc.LowerQuartile(DataPoints);
+            Assert.AreEqual(5.5, result);
+        }
 
         [TestMethod]
         public void PopCorrelationTest()

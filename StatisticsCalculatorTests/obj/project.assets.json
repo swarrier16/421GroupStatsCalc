@@ -2124,17 +2124,17 @@
           "bin/placeholder/SquareRoot.dll": {}
         }
       },
-      "StatsCalc/1.0.0": {
+      "StatisticsCalculator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "basicCalculator": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/StatsCalc.dll": {}
+          "bin/placeholder/StatisticsCalculator.dll": {}
         },
         "runtime": {
-          "bin/placeholder/StatsCalc.dll": {}
+          "bin/placeholder/StatisticsCalculator.dll": {}
         }
       },
       "Subtraction/1.0.0": {
@@ -7020,10 +7020,10 @@
       "path": "../SquareRoot/SquareRoot.csproj",
       "msbuildProject": "../SquareRoot/SquareRoot.csproj"
     },
-    "StatsCalc/1.0.0": {
+    "StatisticsCalculator/1.0.0": {
       "type": "project",
-      "path": "../StatisticsCalculator/StatsCalc.csproj",
-      "msbuildProject": "../StatisticsCalculator/StatsCalc.csproj"
+      "path": "../StatisticsCalculator/StatisticsCalculator.csproj",
+      "msbuildProject": "../StatisticsCalculator/StatisticsCalculator.csproj"
     },
     "Subtraction/1.0.0": {
       "type": "project",
@@ -7036,7 +7036,7 @@
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
-      "StatsCalc >= 1.0.0",
+      "StatisticsCalculator >= 1.0.0",
       "coverlet.collector >= 1.0.1"
     ]
   },
@@ -7066,8 +7066,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatsCalc.csproj": {
-              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatsCalc.csproj"
+            "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatisticsCalculator.csproj": {
+              "projectPath": "C:\\Users\\Nicole\\Documents\\GitHub\\421GroupStatsCalc\\StatisticsCalculator\\StatisticsCalculator.csproj"
             }
           }
         }

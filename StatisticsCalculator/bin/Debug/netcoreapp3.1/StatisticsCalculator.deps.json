@@ -14,9 +14,18 @@
           "StatisticsCalculator.dll": {}
         }
       },
-      "Microsoft.CSharp/4.7.0": {},
+      "Addition/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Addition.dll": {}
+        }
+      },
       "basicCalculator/1.0.0": {
         "dependencies": {
+          "Addition": "1.0.0",
+          "Division": "1.0.0",
           "MathOperations": "1.0.0",
           "Multiplication": "1.0.0",
           "Square": "1.0.0",
@@ -27,6 +36,14 @@
           "basicCalculator.dll": {}
         }
       },
+      "Division/1.0.0": {
+        "dependencies": {
+          "MathOperations": "1.0.0"
+        },
+        "runtime": {
+          "Division.dll": {}
+        }
+      },
       "MathOperations/1.0.0": {
         "runtime": {
           "MathOperations.dll": {}
@@ -34,8 +51,7 @@
       },
       "Multiplication/1.0.0": {
         "dependencies": {
-          "MathOperations": "1.0.0",
-          "Microsoft.CSharp": "4.7.0"
+          "MathOperations": "1.0.0"
         },
         "runtime": {
           "Multiplication.dll": {}
@@ -43,8 +59,7 @@
       },
       "Square/1.0.0": {
         "dependencies": {
-          "MathOperations": "1.0.0",
-          "Microsoft.CSharp": "4.7.0"
+          "MathOperations": "1.0.0"
         },
         "runtime": {
           "Square.dll": {}
@@ -52,8 +67,7 @@
       },
       "SquareRoot/1.0.0": {
         "dependencies": {
-          "MathOperations": "1.0.0",
-          "Microsoft.CSharp": "4.7.0"
+          "MathOperations": "1.0.0"
         },
         "runtime": {
           "SquareRoot.dll": {}
@@ -61,8 +75,7 @@
       },
       "Subtraction/1.0.0": {
         "dependencies": {
-          "MathOperations": "1.0.0",
-          "Microsoft.CSharp": "4.7.0"
+          "MathOperations": "1.0.0"
         },
         "runtime": {
           "Subtraction.dll": {}
@@ -76,14 +89,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.CSharp/4.7.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
-      "path": "microsoft.csharp/4.7.0",
-      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    "Addition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "basicCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Division/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
