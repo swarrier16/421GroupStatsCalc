@@ -1,0 +1,11 @@
+/Users/swarrier/Projects/GroupCalculator/Multiplication/bin/Debug/netcoreapp3.1/Multiplication.deps.json
+/Users/swarrier/Projects/GroupCalculator/Multiplication/bin/Debug/netcoreapp3.1/Multiplication.dll
+/Users/swarrier/Projects/GroupCalculator/Multiplication/bin/Debug/netcoreapp3.1/Multiplication.pdb
+/Users/swarrier/Projects/GroupCalculator/Multiplication/bin/Debug/netcoreapp3.1/MathOperations.dll
+/Users/swarrier/Projects/GroupCalculator/Multiplication/bin/Debug/netcoreapp3.1/MathOperations.pdb
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.csprojAssemblyReference.cache
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.AssemblyInfoInputs.cache
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.AssemblyInfo.cs
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.csproj.CopyComplete
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.dll
+/Users/swarrier/Projects/GroupCalculator/Multiplication/obj/Debug/netcoreapp3.1/Multiplication.pdb
