@@ -1,0 +1,11 @@
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.csproj.CopyComplete
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\Nicole\Documents\GitHub\421GroupStatsCalc\Division\obj\Debug\netcoreapp3.1\Division.pdb
